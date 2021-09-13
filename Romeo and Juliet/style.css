@@ -1,3 +1,9 @@
+.top_section{
+	width: 40%;
+padding: 0px 0px;
+background-color: #f1f2f6;
+box-sizing: border-box;
+}
 h1 {
 	margin: 1em 0 0.5em 0;
     font-weight: 600;
@@ -21,6 +27,9 @@ h1 {
     color: #355681;
     text-transform: uppercase;
  } 
+ p {
+	 line-height: 1.5;
+ }
 
 h3 {
 	margin: 1em 0 0.5em 0;
